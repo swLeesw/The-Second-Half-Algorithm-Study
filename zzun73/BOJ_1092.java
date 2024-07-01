@@ -1,5 +1,3 @@
-package baekjoon.gold.Num01092;
-
 import java.io.*;
 import java.util.Arrays;
 import java.util.Collections;
