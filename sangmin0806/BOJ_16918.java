@@ -45,12 +45,7 @@ public class BOJ_16918 {
                 }
             }
         }
-//        for (int i = 0; i < R; i++) {
-//            for (int j = 0; j < C; j++) {
-//                System.out.print(map[i][j]);
-//            }
-//            System.out.println();
-//        }
+
         StringBuilder initprint = new StringBuilder();
         for (int i = 0; i < R; i++) {
             initprint.append(initmap[i]).append("\n");
