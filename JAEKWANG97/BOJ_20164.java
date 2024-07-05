@@ -1,5 +1,6 @@
 import java.io.*;
 
+
 public class Main {
     static int MIN = Integer.MAX_VALUE, MAX = Integer.MIN_VALUE;
 
