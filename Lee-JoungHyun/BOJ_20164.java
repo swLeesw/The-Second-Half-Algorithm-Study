@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class BOJ_20164 {
     private static class Step {
         long value;
         int count;
