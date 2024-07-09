@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+
 class Chicken {
     int x;
     int y;
